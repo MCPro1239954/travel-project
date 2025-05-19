@@ -53,3 +53,7 @@ footer a:hover {
   border-style: solid;
   transition: 0.3s;
 }
+
+span.bold {
+  font-weight: bold;
+}
