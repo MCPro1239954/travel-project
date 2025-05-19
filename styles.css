@@ -4,11 +4,6 @@
   --accent-color: #1FB3D1;
 }
 
-* {
-  box-sizing: border-box;
-  margin: 0.5em;
-}
-
 html {
   width: 100%;
   height: 100%;
@@ -19,6 +14,7 @@ body {
   width: 100%;
   height: 100%;
   background-color: #FFFFFF;
+  margin: 0.5em;
 }
 
 h1 {
