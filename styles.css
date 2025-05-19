@@ -1,0 +1,31 @@
+:root {
+  --background-color: #1F63D1;
+  --text-color: #000000;
+  --accent-color: #ED7802;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+  font-size: 18pt;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: var(--background-color);
+  margin: 0.5em;
+}
+
+h1 {
+  color: var(--text-color);
+  font-size: 2.5em;
+}
+
+p {
+  color: var(--text-color);
+  font-size: 1em;
+  border: 2px solid var(--accent-color);
+  border-radius: 15px;
+  padding: 20px;
+}
