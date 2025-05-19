@@ -1,7 +1,7 @@
 :root {
   --background-color: #1F63D1;
   --text-color: #000000;
-  --accent-color: #ED7802;
+  --accent-color: #1FB3D1;
 }
 
 html {
@@ -20,6 +20,7 @@ body {
 h1 {
   color: var(--text-color);
   font-size: 2.5em;
+  font-family: "Bebas Neue", sans-serif;
 }
 
 p {
@@ -28,4 +29,5 @@ p {
   border: 2px solid var(--accent-color);
   border-radius: 15px;
   padding: 20px;
+  font-family: Inter, sans-serif;
 }
