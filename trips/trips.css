@@ -8,16 +8,24 @@ html {
   font-size: 18pt;
 }
 
+body {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  min-height: 100vh;
+}
+
 header {
   height: 15%;
   background-color: var(--background-color);
   display: block;
+  margin-top: none;
 }
 
 footer {
   height: 15%;
   background-color: var(--background-color);
   display: block;
+  margin-bottom: none;
 }
 
 div.content {
