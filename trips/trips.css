@@ -10,8 +10,7 @@ html {
 
 body {
   display: grid;
-  grid-template-rows: 15vh auto 15vh;
-  min-height: 100vh;
+  grid-template-rows: 15vh 70vh 15vh;
 }
 
 header, footer {
