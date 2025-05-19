@@ -20,7 +20,7 @@ body {
 h1 {
   color: var(--text-color);
   font-size: 2.5em;
-  font-family: "Bebas Neue", sans-serif;
+  font-family:"Bebas Neue", sans-serif;
 }
 
 p {
@@ -29,5 +29,5 @@ p {
   border: 2px solid var(--accent-color);
   border-radius: 15px;
   padding: 20px;
-  font-family: Inter, sans-serif;
+  font-family: sans-serif;
 }
