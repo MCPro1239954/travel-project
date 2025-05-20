@@ -4,7 +4,7 @@ const destinations = [
     title: "Lagos",
     description: "Explore Nigeria’s megacity and economic capital. From high-rise hotels in Victoria Island to the floating slum of Makoko, you'll witness rapid urbanization, massive inequality, and vibrant street life.",
     apConnection: "Unit 6 – Cities and Urban Land-use: Lagos shows urban sprawl, primate city theory, and informal economies in action.",
-    image: "images/lagos.jpg",
+    image: "images/lagos.png",
     map: "images/lagos_map.png"
   },
   {
@@ -12,7 +12,7 @@ const destinations = [
     title: "Kaduna",
     description: "Head north to experience the agricultural heart of Nigeria. Meet Fulani pastoralists and tour Zaria farms to learn about rural land use and nomadic herding practices.",
     apConnection: "Unit 5 – Agriculture and Rural Land Use: Explore subsistence farming, pastoral nomadism, and shifting land conflicts.",
-    image: "images/kaduna.jpg",
+    image: "images/kaduna.png",
     map: "images/kaduna_map.png"
   },
   {
@@ -20,7 +20,7 @@ const destinations = [
     title: "Kano",
     description: "Step into one of West Africa’s oldest cities and explore its Islamic heritage. From dye pits to ancient mosques, you'll see cultural traditions thrive.",
     apConnection: "Unit 3 – Cultural Patterns and Processes: Kano showcases folk culture, religious identity, and linguistic geography.",
-    image: "images/kano.jpg",
+    image: "images/kano.png",
     map: "images/kano_map.png"
   },
   {
@@ -28,7 +28,7 @@ const destinations = [
     title: "Port Harcourt",
     description: "Travel to Nigeria’s oil-rich Niger Delta and witness the country’s industrial engine — and its environmental and economic consequences.",
     apConnection: "Unit 7 – Industrial and Economic Patterns: Port Harcourt highlights uneven development, core-periphery dynamics, and the resource curse.",
-    image: "images/pharcourt.jpg",
+    image: "images/pharcourt.png",
     map: "images/pharcourt_map.png"
   },
   {
@@ -36,7 +36,7 @@ const destinations = [
     title: "Abuja",
     description: "End your journey in Nigeria’s capital city — a centrally located, purpose-built city symbolizing national unity and political control.",
     apConnection: "Unit 4 – Political Patterns and Processes: Abuja is a forward capital and a centripetal force in Nigeria’s diverse political landscape.",
-    image: "images/abuja.jpg",
+    image: "images/abuja.png",
     map: "images/abuja_map.png"
   }
 ];
