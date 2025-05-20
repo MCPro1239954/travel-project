@@ -57,3 +57,16 @@ footer a:hover {
 span.bold {
   font-weight: bold;
 }
+
+div.destination-flex {
+  width: 350px;
+  height: 500px;
+  background-color: #8F8F8F;
+}
+
+div.destination-flex img {
+  width: 50%;
+  height: auto;
+  border: 1px solid #000000;
+  border-radius: 5px;
+}
