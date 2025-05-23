@@ -65,7 +65,7 @@ destinations.forEach(dest => {
 });
 
 document.addEventListener("keydown", function(event) {
-  if (event.key.toLowerCase() === "z" or event.key.toLowerCase() === "b") {
+  if (event.key.toLowerCase() === "z" || event.key.toLowerCase() === "b") {
     window.alert("You pressed the secret key!");
   }
 });
