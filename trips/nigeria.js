@@ -63,3 +63,9 @@ destinations.forEach(dest => {
   const card = createDestinationCard(dest);
   contentDiv.appendChild(card);
 });
+
+document.addEventListener("keydown", function(event) {
+  if (event.key.toLowerCase() === "z") {
+    window.alert("You pressed the secret key!");
+  }
+});
